@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <div
+      className="css-1abc card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        GitHub
+      </div>
+      <div
+        className="mb-2 text-muted card-subtitle h6"
+      >
+        NaheedAwan
+      </div>
+      <p
+        className="card-text"
+      >
+        My name is Naheed Awan, currently studying full stack web app development. Student NorthCarolina State Universtiy, Raleigh-Durham.
+      </p>
+      <a
+        className="card-link"
+        href="#"
+      >
+        Card Link
+      </a>
+    </div>
+  </div>
+</div>
+`;
